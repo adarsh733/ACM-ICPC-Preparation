@@ -51,18 +51,18 @@ Here are the topics we included in this curriculum.
 
   - Stacks
   - Queues
-  - Priority queue
+  - Priority queue @
   - Hashmap
   - Linked List
   - Trees
   - Heaps
-  - Advanced Trees 
+  - Advanced Trees @
     - Tries
     - Segment trees
     - Fenwick tree or Binary indexed trees
     - RMQ
-  - SQRT Decomposition
-  - Disjoint Data Structure
+  - SQRT Decomposition @
+  - Disjoint Data Structure @
   - C++ STL (optional)
 
 ### Algo
@@ -72,7 +72,7 @@ Here are the topics we included in this curriculum.
     - GCD and LCM Euclid’s Algorithm
     - Modular Exponentiation
     - Long arithmetic (Multi, Add)
-    - Efficient Prime Factorization
+    - Efficient Prime Factorization @
 
   - Combinatorics(Probability-Combinations-Permutations-Matrix..)
 
@@ -93,9 +93,9 @@ Here are the topics we included in this curriculum.
 
   - Searching
     - Binary Search
-    - Ternary Search
+    - Ternary Search 
 
-  - Graph Theory
+  - Graph Theory @
     - Depth First Search (DFS)
     - Breadth First Search (BFS)
     - Dijkstra’s Shortest Path
@@ -107,16 +107,16 @@ Here are the topics we included in this curriculum.
 
   - Dynamic programming
     - Knapsack
-    - Matrix chain multiplication
-    - Coin Change
-    - Kadane
-    - Longest increasing Subsequence (with RMQ)
+    - Matrix chain multiplication 
+    - Coin Change @
+    - Kadane @+variation
+    - Longest increasing Subsequence (with RMQ) @
 
   - Strings
-    - Z algorithm
-    - Suffix Trees/Arrays
-    - Knuth-Morris-Pratt Algorithm (KMP)
-    - Rabin-Karp Algorithm
+    - Z algorithm @
+    - Suffix Trees/Arrays @
+    - Knuth-Morris-Pratt Algorithm (KMP) @
+    - Rabin-Karp Algorithm @
     - Hash
 
   - Bit Manipulation
@@ -128,15 +128,15 @@ Here are the topics we included in this curriculum.
 
   - **Optional Advanced Algorithms**
     - AVL Trees
-    - Graph Coloring
-    - Mo's Algorithm
+    - Graph Coloring    @
+    - Mo's Algorithm    @
     - Palindromic Tree
-    - Heavy Light Decomposition
-    - Dynamic Programming by Profile
-    - Rod Cutting
-    - Topological Sorting
-    - DP with Bitmask - Dynamic Programming
-    - Diobhantine Equation - Math
+    - Heavy Light Decomposition    @
+    - Dynamic Programming by Profile   @
+    - Rod Cutting   @
+    - Topological Sorting  @
+    - DP with Bitmask - Dynamic Programming  @
+    - Diobhantine Equation - Math    @
     - Flood Fill - Graph
 
 
